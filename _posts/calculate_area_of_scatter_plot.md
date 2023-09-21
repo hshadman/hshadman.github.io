@@ -1,7 +1,6 @@
 # Drawing a 'smooth' border around a two-dimensional scatter plot and calculating its area.
 
-
-This is a sample blog post. You can talk about all sorts of fun things here.
+i explored how one can treat a scatter plot as a 2-d area and calculate that area. 
 '''
 This is a header
 Some T-SQL Code
