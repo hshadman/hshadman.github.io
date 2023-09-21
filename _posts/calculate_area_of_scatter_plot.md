@@ -1,4 +1,4 @@
-# How to draw a smooth border around a two-dimensional scatter plot and calculate area.
+# Drawing a 'smooth' border around a two-dimensional scatter plot and calculate area.
 
 
 This is a sample blog post. You can talk about all sorts of fun things here.
