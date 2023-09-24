@@ -1,4 +1,4 @@
-### Hello, I'm Hossain Shadman. I am a PhD candidate in Professor Yongmei Wang's group at the University of Memphis. 
+
 
 <!--
 **hshadman/hshadman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
